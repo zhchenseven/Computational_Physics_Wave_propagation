@@ -1,0 +1,26 @@
+The data are stored in this text.
+This is the shock_DN_F1_LF_nu_0p75 case.
+The initial condition option is shock
+The boundary condition option is DN
+The scheme option is LF
+The flux option is F1
+The parameters are:
+
+N = 32
+x_low = 0
+x_sup = 1
+M = 30
+a = 1
+T = 0.5
+nu = 0.75
+dx = 0.0303030303
+dt = 0.02272727273
+N_itr = 22
+M_fac = 23
+NT = 0.5
+xi = 0
+d = 0
+err = 0.07437298647
+err_ampd = 0
+err_phase = 0
+

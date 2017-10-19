@@ -1,0 +1,7 @@
+﻿  Evo_dynam.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\evo_dynam.cpp(502): warning C4715: 'Evo_dynam::eva_ini': not all control paths return a value
+  Advec.vcxproj -> C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\x64\Debug\Advec.exe
+  Advec.vcxproj -> C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\x64\Debug\Advec.pdb (Full PDB)
+  lib_win64\blas_win64_MT.dll
+  lib_win64\lapack_win64_MT.dll
+          2 file(s) copied.

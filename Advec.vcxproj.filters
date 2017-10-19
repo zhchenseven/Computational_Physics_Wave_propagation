@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="example1.cpp" />
+    <ClCompile Include="Para.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IBC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Evo_dynam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data_process.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_sin_PD_F1_LF_demo.cpp">
+      <Filter>Run Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_sin_PD_F1_UW1_demo.cpp">
+      <Filter>Run Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_shock_DN_F1_UW1_demo.cpp">
+      <Filter>Run Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_shock_DN_F2_UW1_demo.cpp">
+      <Filter>Run Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_cos_PD_F2_UW1_demo.cpp">
+      <Filter>Run Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_cos_PD_F1_UW1_demo.cpp">
+      <Filter>Run Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_scan_sin_PD_F1_demo.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_scan_shock_DN_F1_T_0p5.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_scan_shock_DN_F1_T_1.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_scan_shock_DN_F2.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_scan_cos_PD_F1.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+    <ClCompile Include="run_scan_cos_PD_F2.cpp">
+      <Filter>Scan Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{660d846b-7436-44aa-9bde-72cbd69e1139}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9cf4644a-5bea-4fa7-bba9-ad6760d55866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Run Files">
+      <UniqueIdentifier>{972d731c-c24f-4e2a-800d-079dd4933e56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scan Files">
+      <UniqueIdentifier>{8c750511-044e-49a0-9e95-d63fb27f0306}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Para.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IBC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Evo_dynam.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data_process.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

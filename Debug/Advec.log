@@ -1,0 +1,36 @@
+﻿  run_sin_PD_F1_UW1_demo.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_sin_pd_f1_uw1_demo.cpp(2): fatal error C1083: Cannot open include file: 'armadillo': No such file or directory
+  run_sin_PD_F1_LF_demo.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_sin_pd_f1_lf_demo.cpp(2): fatal error C1083: Cannot open include file: 'armadillo': No such file or directory
+  run_shock_DN_F2_UW1_demo.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_shock_dn_f2_uw1_demo.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  run_shock_DN_F1_UW1_demo.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_shock_dn_f1_uw1_demo.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  run_scan_sin_PD_F1_demo.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_scan_sin_pd_f1_demo.cpp(2): fatal error C1083: Cannot open include file: 'armadillo': No such file or directory
+  run_scan_shock_DN_F2.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_scan_shock_dn_f2.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  run_scan_shock_DN_F1_T_1.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_scan_shock_dn_f1_t_1.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  run_scan_shock_DN_F1_T_0p5.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_scan_shock_dn_f1_t_0p5.cpp(2): fatal error C1083: Cannot open include file: 'armadillo': No such file or directory
+  run_scan_cos_PD_F2.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_scan_cos_pd_f2.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  run_scan_cos_PD_F1.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_scan_cos_pd_f1.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  run_cos_PD_F2_UW1_demo.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_cos_pd_f2_uw1_demo.cpp(2): fatal error C1083: Cannot open include file: 'armadillo': No such file or directory
+  run_cos_PD_F1_UW1_demo.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\run_cos_pd_f1_uw1_demo.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Para.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\para.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  IBC.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\ibc.cpp(2): fatal error C1083: Cannot open include file: 'armadillo': No such file or directory
+  example1.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\example1.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.pdb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Evo_dynam.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\evo_dynam.cpp : fatal error C1041: cannot open program database 'C:\Users\Matt\Dropbox\Fall_2016\CFD\project\proj2\Advec\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Data_process.cpp
+c:\users\matt\dropbox\fall_2016\cfd\project\proj2\advec\data_process.cpp(2): fatal error C1083: Cannot open include file: 'armadillo': No such file or directory
+  Generating Code...
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build

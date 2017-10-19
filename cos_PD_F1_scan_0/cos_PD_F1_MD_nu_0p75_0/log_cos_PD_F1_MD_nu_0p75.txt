@@ -1,0 +1,26 @@
+The data are stored in this text.
+This is the cos_PD_F1_MD_nu_0p75 case.
+The initial condition option is cos
+The boundary condition option is PD
+The scheme option is MD
+The flux option is F1
+The parameters are:
+
+N = 32
+x_low = 0
+x_sup = 1
+M = 30
+a = 1
+T = 1.5
+nu = 0.75
+dx = 0.0303030303
+dt = 0.02272727273
+N_itr = 66
+M_fac = 30
+NT = 1.5
+xi = 0.25
+d = 0.1
+err = 0.09940060522
+err_ampd = 0.5044136027
+err_phase = 0
+

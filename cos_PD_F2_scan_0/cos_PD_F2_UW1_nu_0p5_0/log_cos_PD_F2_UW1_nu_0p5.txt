@@ -1,0 +1,26 @@
+The data are stored in this text.
+This is the cos_PD_F2_UW1_nu_0p5 case.
+The initial condition option is cos
+The boundary condition option is PD
+The scheme option is UW1
+The flux option is F2
+The parameters are:
+
+N = 32
+x_low = 0
+x_sup = 1
+M = 30
+a = 1
+T = 1.5
+nu = 0.5
+dx = 0.0303030303
+dt = 0.01515151515
+N_itr = 99
+M_fac = 30
+NT = 1.5
+xi = 0.25
+d = 0.1
+err = 0.05366503119
+err_ampd = 0.7664966715
+err_phase = 0
+
