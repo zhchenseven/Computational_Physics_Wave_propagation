@@ -1,5 +1,5 @@
 # Computational_Physics_Wave_propagation
-Wave propagation phenomenon are widely present in the physical world, manifesting as various form, acoustic wave, electromagnetic wave, quantum mechanical wave, and etc. In general, the wave phenomena can be described by hyperbolic differential equations. Here, we employ various finite difference schemes to simulate the propagating processes. The code is written using an object-oriented numerical framework in C++. We also attach the code to process, visualiza the data, and make animations using python packages.
+Wave propagation phenomena are widely present in the physical world, manifesting as various form, acoustic wave, electromagnetic wave, quantum mechanical wave, and etc. In general, the wave phenomena can be described by hyperbolic differential equations. Here, we employ various finite difference schemes to simulate the propagating processes. The code is written using an object-oriented numerical framework in C++. We also attach the code to process, visualiza the data, and make animations using python packages.
 
 The code is for the second course project in computational fluid dynamics (MASE 5412) in Washington University in St. Louis.
 
